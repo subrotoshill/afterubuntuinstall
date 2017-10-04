@@ -1,11 +1,12 @@
 #!/bin/sh
-#Automated Installation script
-#Purpose: Installing Basic update of Ubuntu system.
-#Written by: Shuvo
+# Automated Installation script
+# Purpose: Installing Basic update of Ubuntu system.
+# Written by: Shuvo
 #
-#Requirements: Ubuntu 8.04.1 / 8.04.3/any version of ubuntu
+# Requirements: Ubuntu 8.04.1 / 8.04.3/any version of ubuntu
 # Installation Package.
-#chmod 755 this script
+# 
+# chmod 755 this script
 OWNER=
 sleep 2
 apt-get update
