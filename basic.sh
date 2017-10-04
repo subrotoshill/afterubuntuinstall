@@ -17,8 +17,6 @@ apt-get -q -y install build-essential rcconf vim-nox iftop
 sleep 2
 apt-get upgrade
 sleep 2
-apt-get install vlc
-sleep 2
 echo "the server is ready for restart"
 echo "cowntdown to restart"
 sleep 1
